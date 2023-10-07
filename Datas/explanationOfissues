@@ -1,0 +1,45 @@
+[
+    {
+        "name" : "Plastic Pollution",
+        "definition1":"",
+        "effact1" : "Most of the deaths to animals are caused by entanglement or starvation. Seals, whales, turtles, and other animals are strangled by abandoned fishing gear or discarded six-pack rings. ",
+        "effact2" : "Microplastics have been found in more than 100 aquatic species, including fish, shrimp, and mussels destined for our dinner plates.",
+        "cause": "Plastics made from fossil fuels are just over a century old. Production and development of thousands of new plastic products accelerated after World War II, so transforming the modern age that life without plastics would be unrecognizable today. Plastics revolutionized medicine with life-saving devices, made space travel possible, lightened cars and jets—saving fuel and pollution—and saved lives with helmets, incubators, and equipment for clean drinking water."
+    },
+    {
+        "name" : "Light Pollution",
+        "definition1":"Light pollution is the presence of anthropogenic artificial light in otherwise dark conditions.",
+        "effact1" : " the life of many aquatic species is linked to light intensity. In radiated fin fish, feeding, schooling and migration depend on specific light intensities. Changing these intensities can therefore change the behaviour of individuals.",
+        "cause": "The primary cause of light pollution is outdoor lights that emit light upwards or sideways."
+    },
+    {
+        "name" : "Noise Pollution",
+        "definition1":"Noise pollution, or sound pollution, is the propagation of noise or sound with ranging impacts on the activity of human or animal life, most of which are harmful to a degree.",
+        "effact1" : "it harms marine animals by preventing them from hearing natural ocean noises, pushing them away from their natural habitat, and even changing their migration patterns. ",
+        "cause": "Noise pollution is commonly generated inside many industrial facilities and some other workplaces, but it also comes from highway, railway, and airplane traffic and from outdoor construction activities."
+    },
+    {
+        "name" : "Chemical pollution",
+        "definition1":"Chemical pollution refers to the contamination of our environment with chemicals that are not found there naturally.",
+        "effact1" : "Chemicals and heavy metals from industrial and municipal wastewater contaminate waterways as well. These contaminants are toxic to aquatic life—most often reducing an organism's life span and ability to reproduce—and make their way up the food chain as predator eats prey. ",
+        "cause": "Chemical pollutants mostly result from various human activities like the manufacturing, handling, storing, and disposing of chemicals."
+    },
+    {
+        "name" : "Ocean Acidification",
+        "definition1": "When carbon dioxide enters the ocean, it dissolves in saltwater. First, it forms carbonic acid. Then, this carbonic acid breaks apart – or “dissociates” – producing bicarbonate ions and hydrogen ions. Ocean acidification results from an increased concentration of hydrogen ions and a reduction in carbonate ions due to the absorption of increased amounts of CO2. Clams, mussels, crabs, corals, and other sea life rely on carbonate ions to grow their shells and thrive.",
+        "effact1":"In the presence of other climate stressors, ocean acidification makes it harder for species to bounce back. Take the problem of coral bleaching, for example. Corals maintain a mutualistic relationship with photosynthetic algae living in their tissue: corals provide shelter for the algae and each provide the other with nutrients necessary for their survival. But when water temperatures get too high, corals expel these algae, leaving them more vulnerable to disease and less able to maintain and build their skeletal structure.",
+        "cause":"Ocean acidification is caused primarily by uptake of carbon dioxide (CO2) from the atmosphere."
+    },
+    {
+        "name":"Fisheries",
+        "definition1":"Fishery can mean either the enterprise of raising or harvesting fish and other aquatic life.",
+        "effact1":"It can change the size of fish remaining, as well as how they reproduce and the speed at which they mature. When too many fish are taken out of the ocean it creates an imbalance that can erode the food web and lead to a loss of other important marine life, including vulnerable species like sea turtles and corals.",
+        "cause":"Overfishing occurs when more fish are caught than can be replaced by natural reproduction."
+    },
+    {
+        "name":"Eutrophication",
+        "definition1":"Eutrophication is the result of a particular type of marine pollution",
+        "effact1":"These nutrients come from fertilisers used in intensive farming practices on land. Additional nutrients in the sea can lead to excessive phytoplankton growth that results in ‘blooms’. When these large numbers of organisms die, the sharp increase in decomposition of the dead organisms by oxygen-using bacteria depletes oxygen levels.",
+        "cause":"It is caused by the release of excess nutrients into coastal areas via streams and rivers. "
+    }
+]

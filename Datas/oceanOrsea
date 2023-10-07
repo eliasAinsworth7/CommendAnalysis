@@ -1,0 +1,71 @@
+[
+    {
+    "id" : "1",
+    "religion" : "Africa",
+    "country" : "Nigeria",
+    "water" : "South Atlantic Ocean"
+
+},
+{
+    "id" : "2",
+    "religion" : "Africa",
+    "country" : "Somalia",
+    "water" : "India Ocean"
+
+},
+{
+    "id" : "3",
+    "religion" : "Asia",
+    "country" : "Taiwan",
+    "water" : "East Chine Sea"
+
+},
+{
+    "id" : "4",
+    "religion" : "Asia",
+    "country" : "Taiwan",
+    "water" : "Philippine Sea"
+
+},
+{
+    "id" : "5",
+    "religion" : "Asia",
+    "country" : "Japan",
+    "water" : "Pasific Ocean"
+
+},
+{
+    "id" : "6",
+    "religion" : "Asia",
+    "country" : "Japan",
+    "water" : "Sea of Japan"
+
+},
+{
+    "id" : "7",
+    "religion" : "Europa",
+    "country" : "England",
+    "water" : "North Sea"
+
+},
+{
+    "id" : "8",
+    "religion" : "Europa",
+    "country" : "England",
+    "water" : "Atlantic Ocean"
+
+},
+{
+    "id" : "9",
+    "religion" : "Europa",
+    "country" : "Turkey",
+    "water" : "Mediterranean Sea"
+
+},
+{
+    "id" : "10",
+    "religion" : "Europa",
+    "country" : "Turkey",
+    "water" : "Black Sea"
+}
+]
